@@ -2,7 +2,7 @@
 
 Assignment 1 - Case Study (Aave)
 
-#Aave
+# Aave
 
 Aave is a private company founded in 2017 by Stani Kulechov under the name ETHLend. It began as a decentralized lending platform, rebranding itself as Aave in 2018, and has since expanded into other areas of decentralized finance.
 

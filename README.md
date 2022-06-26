@@ -6,7 +6,7 @@
 
 Aave is a private company founded in 2017 by Stani Kulechov under the name ETHLend. It began as a decentralized lending platform, rebranding itself as Aave in 2018, and has since expanded into other areas of decentralized finance.
 
-The company has gone through 8 funding rounds beginning with an initial ICO raising of $US 16.5 on November 25th 2017 (https://coincentral.com/what-is-aave/). In total, Aave have raised $49M with the most recent funding round on February 4th, 2022 (https://www.crunchbase.com/organization/ethlend/company_financials). There are 6 lead investors in Aave: DTC Capital, Framework Ventures, Blockchain.com Ventures, Standard Crypto, Blockchain Capital and IBM (ibid.)
+The company has gone through 8 funding rounds beginning with an initial ICO raising of $US 16.5 on November 25th 2017 [[1]](https://coincentral.com/what-is-aave/). In total, Aave have raised $49M with the most recent funding round on February 4th, 2022 (https://www.crunchbase.com/organization/ethlend/company_financials). There are 6 lead investors in Aave: DTC Capital, Framework Ventures, Blockchain.com Ventures, Standard Crypto, Blockchain Capital and IBM (ibid.)
 
 The company currently has 87 employees (https://pitchbook.com/profiles/company/224491-60#overview), although this number has likely changed in recent months. The CEO remains Stani Kulechov.The CFO is Peter Kerr and the CTO is Ernesto Boado
 
@@ -34,7 +34,7 @@ Aave's decentralized peer to peer service is much more inclusionary than traditi
 
 An interesting possible market for the future is commercial loans. A commercial loan is usually backed by some real estate (collateralized). As real estate tokenization becomes more mature, the possibility of Aave engaging in the commercial loan market is likely, opening up, at least, the unsecured part of the commercial lending market which is estimated to reach USD 29, 379.83 Billion in 2030 (https://www.prnewswire.com/news-releases/commercial-lending-market-size-to-reach-usd-29-379-83-billion-in-2030-at-a-cagr-of-13-1--valuates-reports-301469564.html). Some key market players/ competitors who are likely to be disrupted by Aave's growth are American Express, Credit Suisse, Goldman Sachs, and of course the major banks in any given country.
 
-## Technology Used
+### Technology Used
 
 Aave utilizes the Ethereum blockchain and it's smart contract framework to connect lenders with borrowers. Users post collateral to Aave and earn interest, with the rate of return dependent on the type of collateral they post. Aave is therefore acting as an intermediary, albeit a trustless one, facilitating the borrowing and lending of asssets between parties through the use of smart contracts. To give a scenario as an example, I deposit $100,000 worth of USDC into Aave. You, a financial institution, wanting to borrow a stableoin to then convert into fiat to facilitate an investment or perhaps a fiat loan, takes out a loan on Aave. In order to do so, this institution locks up some less liquid capital, say bitcoin.
 
@@ -78,29 +78,34 @@ Centralised lending institutions that use crypto, blockchains and smart contract
 
 ## Results
 
-Token Price
-One of the key metrics in the crypto currency space to measure the success of dApp or protocol, like Aave, is token price and the "tokenomics" of that token. Aave's token, AAVE, priced at US$72.45 with a market cap of $1,005,100,970.
+One of the key metrics in the crypto currency space to measure the success of a dApp or protocol like Aave is token price and the "tokenomics" of that token. Aave's token, AAVE, is priced at US$72.45 with a market cap of $1,005,100,970.
 
 According to aavewatch.com, total liquidity on Aave is $64,146,001.87.
 
-Aave also collects fees from varioussources within their lending and borrowing services. Flash loan fees prove to be the most lucrative with flash depositing fee earning $3,188,838.93 and flash protocol fee earning $1,366,645.00.
+Aave also collects fees from various sources within their lending and borrowing services. Flash loan fees prove to be the most lucrative with flash depositing fee earning $3,188,838.93 and flash protocol fee earning $1,366,645.00.
 
 Aave collects about $50 million per year (https://www.protocol.com/fintech/aave-v3).
 
-There have been some good figures as far as usage goes on the network, however, perhaps given the difficult macro climate and it's usual affect on lenders, Aave seen a downturn in recent months. The number of addresses created on Aave, a good indicator of usage, has seen a %55 decline (https://ambcrypto.com/assessing-aaves-performance-after-protocol-launched-its-v3/). Transaction volume has also seen declines.
+There have been some good figures as far as usage goes on the network, however, perhaps given the difficult macro climate and it's usual affect on lenders, Aave has seen a downturn in recent months. The number of addresses created on Aave, a good indicator of usage, has seen a %55 decline (https://ambcrypto.com/assessing-aaves-performance-after-protocol-launched-its-v3/). Transaction volume has also seen declines.
 
 Social network following and traction are also often used as indicators of a protocol's health and future engagement. According to coingecko.com Aave currently has 473,913 followers (https://www.coingecko.com/en/coins/aave#social), growing steadily for the past year.
 
-Aave has launched onto layer 2 scaling solutions that, once the impending Ethereum merge and move to prrof of stake goes through, will likely dominate the space. With the advent of Aave v3, the protocol exists on Avalanche, Polygon, Fantom, Arbitrum, Optimism and Harmony. This will allow Aave to access more customers at lower costs.
+Aave has launched onto layer 2 scaling solutions that, once the impending Ethereum merge and move to proof of stake goes through, will likely dominate the space. With the advent of Aave v3, the protocol exists on Avalanche, Polygon, Fantom, Arbitrum, Optimism and Harmony. This will allow Aave to access more customers at lower costs.
 
 ---
 
 ## Recommendations
 
-It is interesting to note that according to nestegg.com (https://www.nestegg.com.au/borrow-money/loans/can-you-guess-australia-s-5th-largest-lender) "mom and dad" are Australia's 5th largest home loan provider! Parents are increasingly loaning money to their children in order for them to buy their first home. Aave is uniquely positioned to further facilitate this trend by providing the opportunity for parents to use their collateral, whether it is in the form of crypto currency ro otherwise, to secure a loan. The more collateral Aave can accept the broader to market for it's services. Thus, I would recommend that Aave develop the functionality to accept collateral in the form of stocks and real estate. It is important to state that not all collateral should be accepted as this would dilute the strength of the protocol, but that stocks and real estate that is tokenized present solid collateral forms that will allow more borrowers to enter Aave's domain, especially the boomer generation.
+It is interesting to note that according to nestegg.com [[]](https://www.nestegg.com.au/borrow-money/loans/can-you-guess-australia-s-5th-largest-lender) "mom and dad" are Australia's 5th largest home loan provider! Parents are increasingly loaning money to their children in order for them to buy their first home. Aave is uniquely positioned to further facilitate this trend by providing the opportunity for parents to use their collateral, whether it is in the form of crypto currency or otherwise, to secure a loan. The more collateral Aave can accept the broader the market for it's services. Thus, I would recommend that Aave develop the functionality to accept collateral in the form of stocks and real estate. It is important to state that not all collateral should be accepted as this would dilute the strength of the protocol, but that stocks and real estate that is tokenized present solid collateral forms that will allow more borrowers to enter Aave's domain, especially the boomer generation.
 
-In order for Aave to begin delivering this product at a large scale the technology around real estate tokenization needs to be mature and robust. As yet, this does not seem to be the case. real estate tokenization is essentially representing ownership of real estate, whether total or fractional, on the blockchain. This field is relatively under developed and would need considerable investment and time to make the tech viable and trusted for the regular real estate holder/ investor.
+In order for Aave to begin delivering this product at a large scale the technology around real estate tokenization needs to be mature and robust. As yet, this does not seem to be the case. Real estate tokenization is essentially representing ownership of real estate, whether total or fractional, on the blockchain. This field is relatively under developed and would need considerable investment and time to make the tech viable and trusted for the regular real estate holder/ investor.
 
-One of the most attractive features of Aave's competitor Nexo is it's provision of a credit card, partnering with Mastercard. The Nexo card offers many features and rewards, most notably the ability to spend a line of credit backed by your crypto collateral. This is essentially a short term loan, or line of credit, with the addition of the convenience of a card accepted around the world. This is shuch a desirable feature and if Aave was to expand into this kind of short term lending for use with everyday purchases, which I think it should, a credit card like the Nexo one would be essential.
+One of the most attractive features of Aave's competitor Nexo is it's provision of a credit card, partnering with Mastercard. The Nexo card offers many features and rewards, most notably the ability to spend a line of credit backed by your crypto collateral. This is essentially a short term loan, or line of credit, with the addition of the convenience of a card accepted around the world. This is shuch a desirable feature and if Aave was to expand into this kind of short term lending for use with everyday purchases, which I think it should, a credit card like the Nexo one would be essential. Such a move would also provide an expanded source of revenue, especially vital in the economic climate which is traditionally difficult for lenders.
 
-The technology to process payments would be required for this service. it is unlikely that Aave could develop it's own, barring some dramatic shift in the economy. More likely would be a partnership with an existing payments company that could then complement Aave's services. We have seen many partnerships between crypto companies and the big two payment processors in Visa and Mastercard. Partnering with Visa or Mastercard is an option, however I think there is opportunity to join with a more modern fintech company, perhaps Paypal or Stripe.
+The technology to process payments would be required for this service. iI is unlikely that Aave could develop it's own. More likely would be a partnership with an existing payments company that could then complement Aave's services. We have seen many partnerships between crypto companies and the big two payment processors, Visa and Mastercard. Partnering with Visa or Mastercard is an option, however I think there is opportunity to join with a more modern fintech company, perhaps Paypal or Stripe.
+
+## References
+
+[1] https://coincentral.com/what-is-aave/
+
+(https://www.nestegg.com.au/borrow-money/loans/can-you-guess-australia-s-5th-largest-lender)

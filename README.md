@@ -73,11 +73,7 @@ Right now, it is really up to the user of Aave's services to decide how they spe
 
 Perhaps the most relevant, and interesting, perspective on Aave's competitors is to focus on the crypto lending market. That is, to leave aside the traditional lending services and consider only those companies that deal with crypto currency lending.
 
-### Aave's Competitors
-
 The competitor that is most similar to Aave is Compound (https://compound.finance/) in that it is a decentralized organisation built on the Ethereum blockchain using smart contract technology. Two other major players in this field are Blockfi (https://blockfi.com/) and Nexo (https://nexo.io/). These two companines differ in that they are centralized organisations, much like any traditional financial institution, that utilize blockchains and smart contracts to deliver their products and services. Regardless, these three lending institutions represent clear and strong competition to Aave.
-
-[Compund Finance](https://compound.finance/)
 
 Nexo, according to it's website (https://nexo.io/) has $12b under management and a user base of 4 million worldwide. It is important to note that, as their website states, Nexo is available in 200+ jurisdictions. _Not all jurisdictions_ . There is also a sign up process that involves divulging personal information as part of their "Know Your Customer" legal requirments. For some this may be an obstacle or drawback to the service. On the other hand, part of Nexo's attraction is it's centralised structure and the fact that this allows for insurance on assets held, a help desk that customers can contact, and a much more usual process of borrowing that most customers might feel more comfortable with. Nexo also has no credit check, instead relying on the value of the crypto currency that is locked as collateral to garuntee the loan.
 
@@ -114,9 +110,3 @@ In order for Aave to begin delivering this product at a large scale the technolo
 One of the most attractive features of Aave's competitor Nexo is it's provision of a credit card, partnering with Mastercard. The Nexo card offers many features and rewards, most notably the ability to spend a line of credit backed by your crypto collateral. This is essentially a short term loan, or line of credit, with the addition of the convenience of a card accepted around the world. This is such a desirable feature and if Aave was to expand into this kind of short term lending for use with everyday purchases, which I think it should, a credit card like the Nexo one would be essential. Such a move would also provide an expanded source of revenue, especially vital in the economic climate which is traditionally difficult for lenders.
 
 The technology to process payments would be required for this service. It is unlikely that Aave could develop it's own. More likely would be a partnership with an existing payments company that could then complement Aave's services. We have seen many partnerships between crypto companies and the big two payment processors, Visa and Mastercard. Partnering with Visa or Mastercard is an option, however I think there is opportunity to join with a more modern fintech company, perhaps Paypal or Stripe.
-
-## References
-
-[1] https://coincentral.com/what-is-aave/
-
-(https://www.nestegg.com.au/borrow-money/loans/can-you-guess-australia-s-5th-largest-lender)
